@@ -16,3 +16,7 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
   }
 }
+/*
+ * 連携するとき、トークンでログインするようになった
+ * https://daiki0508.hatenablog.com/entry/2021/04/05/205439
+ */
